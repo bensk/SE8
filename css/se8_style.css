@@ -27,8 +27,10 @@
 }
 
 .badge{
-	font-weight:400;
+	padding-top: 1%;
+	
 	font-size: 1.5vw;
+
 }
 
 #code{
