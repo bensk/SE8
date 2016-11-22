@@ -6,4 +6,4 @@ def find_odds(input):
             odds_list.append(x)
             print x
 find_odds(test_list)
-print "The sum of the odds is" + str(sum(odds_list))
+print "The sum of the odds is " + str(sum(odds_list))
